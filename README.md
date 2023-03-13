@@ -1,6 +1,6 @@
-🔭 I’m currently working on personal projects switching sides with an arch corporate enterprise; 
+🔭 I’m currently switching sides with an arch corporate enterprise; 
 
-🌱 I’m currently PHP, JavaScript, NodeJS, React and Laravel;
+🌱 I’m currently PHP, JavaScript, NodeJS, React, VueJs and Laravel;
 
 👨‍💻 All of my projects are available at ...
 
