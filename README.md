@@ -2,8 +2,8 @@
 Tools: (Laravel, Vue.js, SQL database and Flutter);
 
 🌱 Besides, I have a deep passion on developing distributed systems for complex financial services, so as the time flew I took over 2 years working with: Java, Kotlin, Go, Python;
-- For frontend: VueJs,
-- Mobile: Flutter
+- For frontend: VueJs;
+- Mobile: Flutter;
 - NoSQL database: MongoDB, Cassandra, Redis and also ELK Stack (for logs);
 - SQL database: MySQL and PostgreSQL;
 - Also: Docker, Kubernetes, Comunication REST and gRPC, async communication with brokers like Apache Kafka;
