@@ -10,8 +10,6 @@ Tools: (Laravel, Vue.js, SQL database and Flutter);
 
 👨‍💻 All of my projects are available at ...
 
-📝 I regularly write articles on https://medium.com/@eduardomarcelino3009
-
 📫 How to reach me: eduardoofficial12@gmail.com;
 
 ⚡ It's crazy but I love wild western movies, 80s stuffs and a good old country music.
