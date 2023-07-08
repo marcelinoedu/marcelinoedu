@@ -1,4 +1,4 @@
-🔭 I’m currently switching sides as a full-stack software developer in an arch corporate enterprise - https://clubecasadesign.com.br/; 
+🔭 Currently switching sides as a developer in an arch corporate enterprise - https://clubecasadesign.com.br/; 
 
 🌱 Besides, I have a deep passion for developing distributed systems for complex financial services, so as time flew I took over 2 years working with Java, Go, NodeJS, and Python;
 - For Web frontend: React and Vue3;
