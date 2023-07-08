@@ -1,11 +1,6 @@
 🔭 Currently switching sides as a developer in an arch corporate enterprise - https://clubecasadesign.com.br/; 
 
-🌱 Besides, I have a deep passion for developing distributed systems for complex financial services, so as time flew I took over 2 years working with Java, Go, NodeJS, and Python;
-- For Web frontend: React and Vue3;
-- Mobile: Flutter;
-- NoSQL database: MongoDB, Cassandra, Redis, and also ELK Stack(Elasticsearch, Logstash, and Kibana) for logs;
-- SQL database: MySQL and PostgreSQL;
-- Also: Docker, Kubernetes, sync communication via API REST and gRPC, async communication with brokers like Apache Kafka and RabbitMQ;
+🌱 Besides, I have a deep passion for developing distributed systems for complex financial services;
 
 👨‍💻 All of my projects are available at ...
 
