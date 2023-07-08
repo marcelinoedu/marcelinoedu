@@ -1,5 +1,4 @@
 🔭 I’m currently switching sides as a fullstack software developer in an arch corporate enterprise - https://clubecasadesign.com.br/; 
-Tools: (Laravel, Vue.js, SQL database and Flutter);
 
 🌱 Besides, I have a deep passion on developing distributed systems for complex financial services, so as the time flew I took over 2 years working with: Java, Kotlin, Go, Python;
 - For frontend: VueJs;
