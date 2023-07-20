@@ -1,6 +1,6 @@
 🔭 Currently switching sides as a developer in an arch corporate enterprise - https://clubecasadesign.com.br/; 
 
-🌱 Besides, I have a deep passion for developing distributed systems for complex financial and payment services;
+🌱 Besides, I have a passion for developing complex financial and payment services and solutions;
 
 👨‍💻 All of my projects are available at: http://marcelinoedu.com
 
