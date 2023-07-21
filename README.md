@@ -1,4 +1,4 @@
-🔭 Currently switching sides as a developer in an arch corporate enterprise - https://clubecasadesign.com.br/; 
+🔭 Currently switching sides as a web developer in an arch corporate enterprise - https://clubecasadesign.com.br/; 
 
 🌱 Besides, I have a passion for developing solutions to complex financial and payment services;
 
