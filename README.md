@@ -2,7 +2,7 @@
 
 🌱 Besides, I have a passion for developing solutions to complex financial and payment services;
 
-👨‍💻 All of my projects are available at: http://marcelinoedu.com;
+👨‍💻 You can get more info at: http://marcelinoedu.com;
 
 📫 You can reach me at: eduardoofficial12@gmail.com;
 
