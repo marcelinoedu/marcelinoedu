@@ -4,7 +4,7 @@
 
 👨‍💻 You can get more info at: http://marcelinoedu.com;
 
-📫 You can reach me at: eduardoofficial12@gmail.com;
+📫 Also reach me at: eduardoofficial12@gmail.com;
 
 ⚡ It's crazy but I love wild Western movies, 80s stuffs, and a piece of good old country music.
 
