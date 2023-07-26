@@ -4,9 +4,7 @@
 
 👨‍💻 You can get more info at: http://marcelinoedu.com;
 
-📫 Also reach me at: eduardoofficial12@gmail.com;
-
-⚡ It's crazy but I love wild Western movies, 80s stuffs, and a piece of good old country music.
+📫 also, you can reach me at: eduardoofficial12@gmail.com;
 
 <!---
 marcelinoedu/marcelinoedu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
