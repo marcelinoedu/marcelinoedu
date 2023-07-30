@@ -1,7 +1,5 @@
 🔭 Currently switching sides as a web developer in an arch corporate enterprise - https://clubecasadesign.com.br/; 
 
-🌱 Besides, I have a passion for developing solutions to complex financial and payment services;
-
 👨‍💻 You can get more info at: http://marcelinoedu.com;
 
 📫 also, you can reach me at: eduardoofficial12@gmail.com;
