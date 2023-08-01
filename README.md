@@ -1,4 +1,4 @@
-🔭 Currently switching sides as a web developer in an arch corporate enterprise - https://clubecasadesign.com.br/; 
+Currently switching sides as a web developer in an arch corporate enterprise - https://clubecasadesign.com.br/; 
 
 👨‍💻 You can get more info at: http://marcelinoedu.com;
 
