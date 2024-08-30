@@ -1,4 +1,5 @@
 Currently crafting software at an arch corporate enterprise - https://clubecasadesign.com.br; 
+\n
 Studing BSc Computer Science at Insper - https://www.insper.edu.br
 <!---
 marcelinoedu/marcelinoedu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
